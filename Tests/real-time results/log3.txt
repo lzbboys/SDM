@@ -1,0 +1,112 @@
+Magnet on x 100: -16.233333 | 2.205104
+Magnet on x 99: -18.000000 | 2.238816
+Magnet on x 98: -16.450000 | 2.164930
+Invalid readings
+Magnet on x 97: -18.040000 | 2.252699
+Magnet on x 96: -15.336364 | 2.233443
+Magnet on x 95: -17.761538 | 2.209079
+Magnet on x 94: -16.100000 | 2.233822
+Magnet on x 93: -16.966667 | 2.263375
+Magnet on x 92: -16.981818 | 2.203387
+Magnet on x 91: -20.500000 | 2.204863
+Magnet on x 90: -19.050000 | 2.187077
+Magnet on x 89: -20.142857 | 2.200299
+Magnet on x 88: -19.090000 | 2.171651
+Magnet on x 87: -19.942857 | 2.238170
+Magnet on x 86: -18.076923 | 2.194173
+Magnet on x 85: -18.984616 | 2.204089
+Magnet on x 84: -18.054546 | 2.191094
+Magnet on x 83: -19.542857 | 2.260237
+Magnet on x 82: -17.450000 | 2.199532
+Magnet on x 81: -18.661539 | 2.243675
+Magnet on x 80: -16.716667 | 2.241520
+Magnet on x 79: -18.414286 | 2.236575
+Magnet on x 78: -16.754546 | 2.228607
+Magnet on x 77: -18.461539 | 2.284134
+Magnet on x 76: -16.418182 | 2.230188
+Magnet on x 75: -17.550000 | 2.328920
+Magnet on x 74: -17.806667 | 2.480600
+Magnet on x 73: -41.793750 | 2.116397
+Magnet on x 72: -44.609091 | 2.148672
+Magnet on x 71: -45.321429 | 2.224566
+Magnet on x 70: -45.666667 | 2.174320
+Magnet on x 69: -45.700000 | 2.217766
+Magnet on x 68: -45.666667 | 2.160738
+Magnet on x 67: -46.561539 | 2.206718
+Magnet on x 66: -46.154546 | 2.152018
+Magnet on x 65: -45.135715 | 2.216249
+Magnet on x 64: -44.354546 | 2.169121
+Magnet on x 63: -45.630770 | 2.223071
+Magnet on x 62: -44.825000 | 2.168553
+Magnet on x 61: -44.830770 | 2.205163
+Magnet on x 60: -45.400000 | 2.148635
+Magnet on x 59: -46.015385 | 2.197875
+Magnet on x 58: -44.466667 | 2.155503
+Magnet on x 57: -44.983334 | 2.189729
+Magnet on x 56: -43.907693 | 2.158325
+Magnet on x 55: -45.607693 | 2.187838
+Magnet on x 54: -44.272728 | 2.143357
+Magnet on x 53: -45.057143 | 2.186024
+Magnet on x 52: -43.925000 | 2.156559
+Magnet on x 51: -44.938462 | 2.154622
+Magnet on x 50: -43.776923 | 2.149065
+Magnet on x 49: -36.648387 | 2.511331
+Magnet on x 48: -29.760000 | 2.676760
+Magnet on x 47: -32.345455 | 2.621772
+Magnet on x 46: -30.314286 | 2.682434
+Magnet on x 45: -31.407693 | 2.635249
+Magnet on x 44: -29.184616 | 2.680523
+Magnet on x 43: -32.033334 | 2.618798
+Invalid readings
+Magnet on x 42: -30.492857 | 2.679858
+Magnet on x 41: -31.391667 | 2.630651
+Magnet on x 40: -30.664286 | 2.678600
+Magnet on x 39: -32.875000 | 2.627089
+Magnet on x 38: -31.515385 | 2.666474
+Magnet on x 37: -31.600000 | 2.620792
+Magnet on x 36: -30.907692 | 2.669541
+Magnet on x 35: -31.758333 | 2.626295
+Magnet on x 34: -30.785714 | 2.669298
+Invalid readings
+Magnet on x 33: -33.436364 | 2.607519
+Invalid readings
+Magnet on x 32: -31.823078 | 2.662992
+Magnet on x 31: -33.250001 | 2.610815
+Invalid readings
+Magnet on x 30: -31.853847 | 2.655922
+Magnet on x 29: -33.383333 | 2.601570
+Invalid readings
+Magnet on x 28: -31.600000 | 2.656143
+Invalid readings
+Magnet on x 27: -33.261539 | 2.605163
+Magnet on x 26: -32.440000 | 2.641291
+Magnet on x 25: -33.442857 | 2.596719
+Magnet on x 24: -27.342858 | 2.749736
+Invalid readings
+Invalid readings
+Magnet on x 23: -8.046154 | 2.960881
+Magnet on x 22: -0.869231 | 2.631887
+Magnet on x 21: -1.107692 | 3.046761
+Invalid readings
+Invalid readings
+Magnet on x 20: -0.992308 | 2.627850
+Magnet on x 19: -2.383333 | 3.041597
+Magnet on x 18: -2.184615 | 3.096032
+Magnet on x 17: -1.910000 | 3.040638
+Magnet on x 16: -1.561538 | 3.093941
+Magnet on x 15: -1.291667 | 3.034799
+Magnet on x 14: -1.884615 | 2.900636
+Magnet on x 13: -3.109091 | 3.034767
+Magnet on x 12: -1.378571 | 2.199137
+Magnet on x 11: -2.250000 | 3.030250
+Magnet on x 10: -1.485714 | 2.826189
+Magnet on x 9: -2.090909 | 3.029666
+Magnet on x 8: -1.521429 | 2.643890
+Magnet on x 7: -2.463636 | 3.035617
+Magnet on x 6: -1.828571 | 3.089282
+Magnet on x 5: -2.072727 | 3.031348
+Invalid readings
+Magnet on x 4: -2.850000 | 3.072486
+Magnet on x 3: -3.175000 | 3.009516
+Magnet on x 2: -1.850000 | 2.559034
+Magnet on x 1: -2.591667 | 3.023077

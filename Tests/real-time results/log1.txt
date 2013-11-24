@@ -1,0 +1,118 @@
+Magnet on x 100: -3.140000 | -3.140000
+Magnet on x 99: -2.500000 | -2.500000
+Magnet on x 98: -4.922222 | -4.922222
+Magnet on x 97: -4.641667 | -4.641667
+Magnet on x 96: -4.372727 | -4.372727
+Invalid readings
+Magnet on x 95: -3.608333 | -3.608333
+Magnet on x 94: -4.936364 | -4.936364
+Invalid readings
+Magnet on x 93: -4.041667 | -4.041667
+Magnet on x 92: -3.900000 | -3.900000
+Invalid readings
+Magnet on x 91: -3.708333 | -3.708333
+Magnet on x 90: -5.181818 | -5.181818
+Magnet on x 89: -3.523077 | -3.523077
+Magnet on x 88: -4.536364 | -4.536364
+Magnet on x 87: -3.730769 | -3.730769
+Magnet on x 86: -4.820000 | -4.820000
+Magnet on x 85: -3.925000 | -3.925000
+Magnet on x 84: -5.209091 | -5.209091
+Invalid readings
+Magnet on x 83: -4.446154 | -4.446154
+Magnet on x 82: -5.183333 | -5.183333
+Magnet on x 81: -5.461539 | -5.461539
+Magnet on x 80: -5.981818 | -5.981818
+Magnet on x 79: -4.633333 | -4.633333
+Magnet on x 78: -6.241667 | -6.241667
+Magnet on x 77: -6.426667 | -6.426667
+Magnet on x 76: -5.272727 | -5.272727
+Invalid readings
+Magnet on x 75: -4.583333 | -4.583333
+Magnet on x 74: -6.200000 | -6.200000
+Magnet on x 73: -7.428572 | -7.428572
+Magnet on x 72: -26.645455 | -26.645455
+Magnet on x 71: -34.530770 | -34.530770
+Magnet on x 70: -36.918182 | -36.918182
+Magnet on x 69: -36.650001 | -36.650001
+Magnet on x 68: -36.733334 | -36.733334
+Magnet on x 67: -35.784616 | -35.784616
+Magnet on x 66: -37.181819 | -37.181819
+Magnet on x 65: -37.484616 | -37.484616
+Magnet on x 64: -38.290909 | -38.290909
+Magnet on x 63: -37.192308 | -37.192308
+Magnet on x 62: -37.700000 | -37.700000
+Invalid readings
+Magnet on x 61: -36.450000 | -36.450000
+Magnet on x 60: -38.509091 | -38.509091
+Magnet on x 59: -37.816667 | -37.816667
+Magnet on x 58: -39.118182 | -39.118182
+Invalid readings
+Magnet on x 57: -37.733334 | -37.733334
+Magnet on x 56: -38.054545 | -38.054545
+Magnet on x 55: -37.581818 | -37.581818
+Magnet on x 54: -38.616667 | -38.616667
+Magnet on x 53: -38.266667 | -38.266667
+Magnet on x 52: -38.958334 | -38.958334
+Invalid readings
+Invalid readings
+Magnet on x 51: -37.716667 | -37.716667
+Magnet on x 50: -38.254546 | -38.254546
+Magnet on x 49: -38.653847 | -38.653847
+Magnet on x 48: -45.046155 | -45.046155
+Magnet on x 47: -42.966667 | -42.966667
+Magnet on x 46: -39.350000 | -39.350000
+Magnet on x 45: -39.483334 | -39.483334
+Magnet on x 44: -39.654546 | -39.654546
+Magnet on x 43: -39.807693 | -39.807693
+Magnet on x 42: -38.854545 | -38.854545
+Magnet on x 41: -39.925000 | -39.925000
+Magnet on x 40: -38.440001 | -38.440001
+Magnet on x 39: -38.915385 | -38.915385
+Magnet on x 38: -38.900001 | -38.900001
+Invalid readings
+Magnet on x 37: -39.292308 | -39.292308
+Magnet on x 36: -37.763637 | -37.763637
+Magnet on x 35: -38.783334 | -38.783334
+Magnet on x 34: -37.354546 | -37.354546
+Magnet on x 33: -38.346154 | -38.346154
+Magnet on x 32: -37.218182 | -37.218182
+Magnet on x 31: -38.783334 | -38.783334
+Magnet on x 30: -37.509091 | -37.509091
+Magnet on x 29: -38.941667 | -38.941667
+Magnet on x 28: -37.383333 | -37.383333
+Magnet on x 27: -39.150000 | -39.150000
+Magnet on x 26: -38.227273 | -38.227273
+Magnet on x 25: -39.469231 | -39.469231
+Magnet on x 24: -35.757895 | -35.757895
+Magnet on x 23: -19.300000 | -19.300000
+Magnet on x 22: -10.383334 | -10.383334
+Magnet on x 21: -9.200000 | -9.200000
+Magnet on x 20: -7.675000 | -7.675000
+Invalid readings
+Invalid readings
+Magnet on x 19: -9.169231 | -9.169231
+Magnet on x 18: -7.991667 | -7.991667
+Invalid readings
+Invalid readings
+Magnet on x 17: -8.538462 | -8.538462
+Magnet on x 16: -7.830000 | -7.830000
+Magnet on x 15: -9.300000 | -9.300000
+Magnet on x 14: -8.100000 | -8.100000
+Magnet on x 13: -8.076923 | -8.076923
+Magnet on x 12: -8.527273 | -8.527273
+Magnet on x 11: -10.078572 | -10.078572
+Magnet on x 10: -8.872727 | -8.872727
+Invalid readings
+Magnet on x 9: -10.453846 | -10.453846
+Magnet on x 8: -9.100000 | -9.100000
+Magnet on x 7: -10.683333 | -10.683333
+Magnet on x 6: -10.341667 | -10.341667
+Invalid readings
+Magnet on x 5: -11.900000 | -11.900000
+Invalid readings
+Magnet on x 4: -10.666667 | -10.666667
+Magnet on x 3: -12.015385 | -12.015385
+Magnet on x 2: -11.081819 | -11.081819
+Invalid readings
+Magnet on x 1: -12.561539 | -12.561539

@@ -1,0 +1,112 @@
+Invalid readings
+Magnet on x 100: -14.920000 | 2.311994
+Magnet on x 99: -15.640000 | 2.181010
+Magnet on x 98: -16.666667 | 2.339925
+Magnet on x 97: -16.009091 | 2.138240
+Magnet on x 96: -17.418182 | 2.298455
+Magnet on x 95: -15.372727 | 2.207115
+Magnet on x 94: -17.558334 | 2.295685
+Magnet on x 93: -16.136364 | 2.195146
+Invalid readings
+Magnet on x 92: -16.115385 | 2.291579
+Magnet on x 91: -15.258333 | 2.167885
+Magnet on x 90: -16.823077 | 2.268923
+Magnet on x 89: -15.000000 | 2.197151
+Magnet on x 88: -16.776923 | 2.291569
+Magnet on x 87: -15.425000 | 2.248552
+Magnet on x 86: -17.925000 | 2.373193
+Magnet on x 85: -16.912500 | 2.205094
+Magnet on x 84: -15.618182 | 2.200843
+Magnet on x 83: -17.228572 | 2.286853
+Magnet on x 82: -15.609091 | 2.202845
+Magnet on x 81: -17.853846 | 2.285118
+Magnet on x 80: -14.450000 | 2.218304
+Magnet on x 79: -15.546154 | 2.273264
+Invalid readings
+Magnet on x 78: -13.316667 | 2.295421
+Magnet on x 77: -15.430770 | 2.348457
+Magnet on x 76: -13.666667 | 2.287441
+Magnet on x 75: -15.928572 | 2.303820
+Magnet on x 74: -9.831250 | 2.432829
+Magnet on x 73: -3.526667 | 1.681891
+Magnet on x 72: -2.891667 | 3.019333
+Magnet on x 71: -3.053846 | 3.084170
+Magnet on x 70: -3.583333 | 3.013236
+Invalid readings
+Magnet on x 69: -1.730769 | 2.150645
+Magnet on x 68: -3.254545 | 3.012533
+Magnet on x 67: -1.821429 | 2.647061
+Magnet on x 66: -2.181818 | 3.013443
+Magnet on x 65: -2.413333 | 2.672230
+Magnet on x 64: -3.184615 | 3.012001
+Magnet on x 63: -2.430769 | 3.102372
+Magnet on x 62: -3.500000 | 3.010681
+Invalid readings
+Magnet on x 61: -2.284615 | 3.096733
+Magnet on x 60: -2.833333 | 3.022352
+Magnet on x 59: -3.078571 | 2.738583
+Invalid readings
+Magnet on x 58: -3.341667 | 3.015869
+Magnet on x 57: -2.764286 | 2.205044
+Magnet on x 56: -2.936364 | 3.023949
+Magnet on x 55: -2.513333 | 3.096323
+Magnet on x 54: -3.390909 | 3.021795
+Magnet on x 53: -2.228571 | 2.653005
+Magnet on x 52: -2.223077 | 3.028889
+Magnet on x 51: -1.961538 | 2.620504
+Magnet on x 50: -2.238462 | 3.026978
+Magnet on x 49: -1.578571 | 3.088567
+Magnet on x 48: -9.900000 | 2.850069
+Magnet on x 47: -25.900000 | 2.720571
+Magnet on x 46: -31.700001 | 2.593773
+Magnet on x 45: -31.585715 | 2.639660
+Magnet on x 44: -32.909091 | 2.588214
+Magnet on x 43: -31.164286 | 2.645321
+Magnet on x 42: -32.800001 | 2.582110
+Magnet on x 41: -31.742858 | 2.633221
+Magnet on x 40: -33.041667 | 2.583723
+Magnet on x 39: -31.430769 | 2.628633
+Magnet on x 38: -32.645455 | 2.589843
+Magnet on x 37: -31.278572 | 2.645664
+Magnet on x 36: -31.881818 | 2.597552
+Magnet on x 35: -31.146154 | 2.650299
+Magnet on x 34: -32.658333 | 2.597012
+Magnet on x 33: -31.823077 | 2.654368
+Magnet on x 32: -31.741667 | 2.601831
+Magnet on x 31: -30.300000 | 2.674735
+Magnet on x 30: -31.066667 | 2.623393
+Invalid readings
+Magnet on x 29: -30.569231 | 2.671929
+Magnet on x 28: -32.041667 | 2.599730
+Invalid readings
+Magnet on x 27: -30.430769 | 2.659208
+Magnet on x 26: -30.769231 | 2.614092
+Magnet on x 25: -29.846667 | 2.676635
+Magnet on x 24: -32.846667 | 2.578607
+Magnet on x 23: -43.400000 | 2.319098
+Magnet on x 22: -43.469231 | 2.127855
+Invalid readings
+Invalid readings
+Magnet on x 21: -43.807143 | 2.159733
+Magnet on x 20: -42.758334 | 2.139119
+Magnet on x 19: -44.169231 | 2.144668
+Magnet on x 18: -43.758334 | 2.131690
+Magnet on x 17: -44.692308 | 2.148972
+Magnet on x 16: -44.046667 | 2.111880
+Magnet on x 15: -44.538462 | 2.150699
+Magnet on x 14: -43.716667 | 2.115337
+Invalid readings
+Magnet on x 13: -44.292308 | 2.154098
+Magnet on x 12: -43.241667 | 2.124258
+Magnet on x 11: -44.128572 | 2.150816
+Magnet on x 10: -43.142857 | 2.122982
+Magnet on x 9: -44.100000 | 2.134485
+Magnet on x 8: -42.700000 | 2.103669
+Magnet on x 7: -44.323078 | 2.118334
+Magnet on x 6: -41.616668 | 2.109025
+Invalid readings
+Magnet on x 5: -40.700001 | 2.137768
+Magnet on x 4: -41.338462 | 2.101749
+Magnet on x 3: -42.207693 | 2.145280
+Magnet on x 2: -42.666667 | 2.108083
+Magnet on x 1: -43.664286 | 2.152869

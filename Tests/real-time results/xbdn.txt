@@ -1,0 +1,115 @@
+Magnet on x 100: 17.500000 | -1.965460
+Magnet on x 99: 17.383333 | -1.862912
+Magnet on x 98: 17.620000 | -1.964554
+Magnet on x 97: 16.569231 | -2.000122
+Magnet on x 96: 18.033334 | -1.936650
+Magnet on x 95: 16.690909 | -2.021112
+Invalid readings
+Magnet on x 94: 17.553846 | -1.970327
+Magnet on x 93: 16.918182 | -2.026095
+Magnet on x 92: 17.750000 | -1.905998
+Magnet on x 91: 17.866667 | -1.945967
+Magnet on x 90: 17.153846 | -1.891209
+Magnet on x 89: 17.260000 | -2.011617
+Magnet on x 88: 17.125000 | -1.914361
+Magnet on x 87: 17.050000 | -1.994518
+Magnet on x 86: 17.316667 | -2.021880
+Magnet on x 85: 16.841667 | -2.115362
+Magnet on x 84: 17.725000 | -1.976695
+Magnet on x 83: 16.700000 | -2.109150
+Invalid readings
+Invalid readings
+Magnet on x 82: 17.130769 | -2.083208
+Magnet on x 81: 16.280000 | -2.203979
+Magnet on x 80: 16.784615 | -2.076124
+Magnet on x 79: 16.000000 | -2.223089
+Magnet on x 78: 16.541667 | -2.118694
+Magnet on x 77: 16.733334 | -2.300842
+Magnet on x 76: 16.176923 | -2.194884
+Magnet on x 75: 15.345455 | -2.309619
+Invalid readings
+Magnet on x 74: 15.761539 | -2.194806
+Magnet on x 73: 16.545455 | -2.277243
+Magnet on x 72: 21.271429 | -1.272280
+Magnet on x 71: 14.741667 | -0.377331
+Invalid readings
+Magnet on x 70: 10.146154 | -0.373677
+Magnet on x 69: 9.225000 | -0.122740
+Magnet on x 68: 6.966667 | -0.263103
+Magnet on x 67: 8.800000 | -0.169910
+Magnet on x 66: 8.300000 | -0.354941
+Magnet on x 65: 9.690909 | -0.188522
+Magnet on x 64: 8.661539 | -0.378829
+Magnet on x 63: 10.350000 | -0.251669
+Invalid readings
+Magnet on x 62: 9.300000 | -0.377841
+Invalid readings
+Magnet on x 61: 11.125000 | -0.277952
+Invalid readings
+Magnet on x 60: 9.233333 | -0.370408
+Magnet on x 59: 11.061539 | -0.268445
+Magnet on x 58: 10.930769 | -0.464641
+Magnet on x 57: 11.646154 | -0.341831
+Magnet on x 56: 10.769231 | -0.410100
+Magnet on x 55: 12.591667 | -0.344850
+Magnet on x 54: 11.915385 | -0.444986
+Magnet on x 53: 13.230770 | -0.386764
+Invalid readings
+Magnet on x 52: 12.525000 | -0.466659
+Magnet on x 51: 14.038462 | -0.433833
+Magnet on x 50: 11.075000 | -0.391407
+Invalid readings
+Magnet on x 49: 12.688889 | -0.505001
+Magnet on x 48: -3.490323 | 0.170368
+Magnet on x 47: -19.992308 | 1.060411
+Magnet on x 46: -20.423077 | 1.083684
+Magnet on x 45: -19.800000 | 1.060070
+Magnet on x 44: -20.271429 | 1.048856
+Magnet on x 43: -20.327273 | 1.080360
+Magnet on x 42: -20.435714 | 1.035358
+Magnet on x 41: -19.581818 | 1.037157
+Magnet on x 40: -20.841667 | 1.067983
+Magnet on x 39: -20.061539 | 1.090385
+Magnet on x 38: -20.583334 | 1.094218
+Magnet on x 37: -20.600000 | 1.115974
+Invalid readings
+Magnet on x 36: -20.991667 | 1.076439
+Magnet on x 35: -20.300000 | 1.088517
+Magnet on x 34: -21.915385 | 1.128711
+Magnet on x 33: -20.684616 | 1.127910
+Magnet on x 32: -22.333334 | 1.191830
+Magnet on x 31: -21.184616 | 1.143357
+Magnet on x 30: -21.930769 | 1.095064
+Magnet on x 29: -20.766667 | 1.118299
+Magnet on x 28: -20.935715 | 1.093878
+Magnet on x 27: -22.461539 | 1.159571
+Invalid readings
+Invalid readings
+Magnet on x 26: -22.835714 | 1.150912
+Magnet on x 25: -20.446667 | 1.137574
+Magnet on x 24: -18.250000 | 1.709167
+Magnet on x 23: -11.884615 | 2.338338
+Magnet on x 22: -10.536364 | 2.627673
+Magnet on x 21: -11.372728 | 2.437609
+Magnet on x 20: -12.007693 | 2.590255
+Magnet on x 19: -12.958333 | 2.424785
+Magnet on x 18: -12.190909 | 2.558160
+Magnet on x 17: -13.483333 | 2.393879
+Invalid readings
+Magnet on x 16: -12.216667 | 2.547110
+Magnet on x 15: -13.541667 | 2.386247
+Invalid readings
+Magnet on x 14: -13.441667 | 2.499231
+Magnet on x 13: -14.330001 | 2.361028
+Magnet on x 12: -12.627273 | 2.536989
+Magnet on x 11: -13.336364 | 2.349071
+Magnet on x 10: -11.928572 | 2.508024
+Magnet on x 9: -13.541667 | 2.330428
+Magnet on x 8: -10.946154 | 2.519007
+Magnet on x 7: -12.818182 | 2.347813
+Magnet on x 6: -10.669231 | 2.544016
+Magnet on x 5: -13.141667 | 2.383432
+Magnet on x 4: -12.350000 | 2.522905
+Magnet on x 3: -12.975000 | 2.343720
+Magnet on x 2: -11.966667 | 2.526587
+Magnet on x 1: -14.263636 | 2.341455

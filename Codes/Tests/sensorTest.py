@@ -28,5 +28,5 @@ class sensorsTest:
 
 
 
-t = sensorsTest(600);
+t = sensorsTest(200);
 t.test();
