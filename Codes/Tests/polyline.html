@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Polyline Map</title>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+<meta charset="utf-8">
+<style>
+html, body, #googleMap {
+	height: 100%;
+	margin: 0px;
+	padding: 0px
+}
+</style>
+<script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDz_YhAdsk6hT4DXthFi6mT_ak99IXF2ZI&sensor=false">
+</script>
+
+<script>
+var mapCenterPoint=new google.maps.LatLng(35.960429655387998,-83.924567336216569); // this should be the center of the map
+
+var realCoord=[
+new line!!!!!!!!!!!
+	new google.maps.LatLng(35.960429655387998,-83.924567336216569),
+	new google.maps.LatLng(35.960453795269132,-83.924530874937773),
+	new google.maps.LatLng(35.960455178283155,-83.924478655681014),
+	new google.maps.LatLng(35.960270022042096,-83.924531042575836),
+	new google.maps.LatLng(35.960282594896853,-83.924545710906386),
+	new google.maps.LatLng(35.960273710079491,-83.924442362040281),
+	new google.maps.LatLng(35.960210468620062,-83.9243567828089),
+	new google.maps.LatLng(35.960134486667812,-83.924328619614244),
+	new google.maps.LatLng(35.960068982094526,-83.924289979040623),
+	new google.maps.LatLng(35.960018062032759,-83.924226695671678),
+];
+
+function initialize(){
+	var mapProp = {
+	  center:mapCenterPoint, // this is the point the map is centered on
+	  zoom:18, // this sets how far the map is zoomed in
+	  mapTypeId:google.maps.MapTypeId.HYBRID // type of map
+	  };
+  
+	var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
+	
+	var myPath=new google.maps.Polyline({
+	  path:realCoord,
+	  strokeColor:"#00FF00", // color of path line
+	  strokeOpacity:1.0,
+	  strokeWeight:2
+	});
+	
+	myPath.setMap(map);
+}
+
+google.maps.event.addDomListener(window, 'load', initialize);
+</script>
+</head>
+
+<body>
+<div id="googleMap"></div>
+</body>
+</html>

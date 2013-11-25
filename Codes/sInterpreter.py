@@ -6,17 +6,17 @@ Pos, Neg = range(2)
 
 SensingInterval = 10 # ms
 SleepInterval = 0.02 # s
-InitialSleep = 1 # s
+# InitialSleep = 1 # s
 
 ShockResist = 0 # 0.1 / SleepInterval
 AThreshold = 1
-StepSize = 0.772 # meter, recommended by most pedometers
+StepSize = 0.7720000001 # meter, recommended by most pedometers
 
-MShift = -25
-MMagnitude = 50
+MShift = -65
+MMagnitude = 100
 
-RLatitude = 90000.0 # meter, when Longitude = 36
-RLongitude = 111000.0
+RLatitude = 90000.0000000001 # meter, when Longitude = 36
+RLongitude = 111000.0000000001
 
 class SInterpreter:
 
@@ -26,17 +26,14 @@ class SInterpreter:
 		self.aAvg = 9.8 # recording the average of acceleration on x
 		self.mAvg = 0.0 # recording the average of magnetic field on x
 
-		self.d.makeToast('Sensor Data Interpreter Initiating....')
-
 		self.d.wakeLockAcquireDim()
 		self.walkingState = Pos
 		self.d.startSensingTimed(1, SensingInterval)
-		time.sleep(InitialSleep)
+		# time.sleep(InitialSleep)
 
 	def __del__(self):
 		self.d.wakeLockRelease()
 		self.d.stopSensing()
-		self.d.makeToast('Sensor Data Interpreter Finished....')
 		self.d.vibrate(7000)
 
 	def sensing(self):
@@ -75,17 +72,24 @@ class SInterpreter:
 
 		return mAvg
 
-	def calcCoordinates(self, coordinates, magX):
-		if magX <= MShift + MMagnitude and magX > MShift + 0.75*MMagnitude:
-			# going west, latitude minus step size 
+	def calcCoordinates(self, coordinates, orientation, magX):
+		if magX < MShift + MMagnitude and magX > MShift + 0.80*MMagnitude:
+			# going west, longitude minus step size 
+			orientation = 'west'
 			coordinates[1] = coordinates[1] - StepSize / RLatitude
-		elif magX <= MShift + 0.75*MMagnitude and magX > MShift + 0.5*MMagnitude:
-			# going north, longitude plus step size 
+		elif magX < MShift + 0.74*MMagnitude and magX > MShift + 0.54*MMagnitude:
+			# going north, latitude plus step size 
+			orientation = 'north'
 			coordinates[0] = coordinates[0] + StepSize / RLongitude
-		elif magX <= MShift + 0.5*MMagnitude and magX > MShift + 0.25*MMagnitude:
-			# going sorth, longitude minus step size 
+		elif magX < MShift + 0.47*MMagnitude and magX > MShift + 0.27*MMagnitude:
+			# going sorth, latitude minus step size 
+			orientation = 'south'
 			coordinates[0] = coordinates[0] - StepSize / RLongitude
-		else:
-			# going east, latitude plus step size 
+		elif magX < MShift + 0.2*MMagnitude and magX > MShift:
+			# going east, longitude plus step size 
+			orientation = 'east'
 			coordinates[1] = coordinates[1] + StepSize / RLatitude
-		return coordinates
+		else:
+			# follow the original direction
+			coordinates = coordinates
+		return coordinates, orientation
