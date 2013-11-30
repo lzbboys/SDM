@@ -18,9 +18,9 @@ d.startLocating(1000, 30)
 while 1:
 	time.sleep(0.1)
 	locatingReading = d.readLocation().result
-	if 'network' in locatingReading:
-		coordinates = [locatingReading['network']['latitude'], locatingReading['network']['longitude']]
-		d.makeToast('network ready!')
+	if 'gps' in locatingReading:
+		coordinates = [locatingReading['gps']['latitude'], locatingReading['gps']['longitude']]
+		d.makeToast('gps ready!')
 		orientation = 'east'
 		break
 
