@@ -1,4 +1,9 @@
 # -*- coding: utf-8 -*-
+'''
+Description: Main algorithm to translate sensor readings into coordinates change
+Author: Zheng Lu
+Date: Dec.13, 2013
+'''
 
 import time
 
@@ -6,38 +11,39 @@ Pos, Neg = range(2)
 
 SensingInterval = 10 # ms
 SleepInterval = 0.02 # s
-# InitialSleep = 1 # s
 
-ShockResist = 0 # 0.1 / SleepInterval
-AThreshold = 1
+ShockResist = 0 # 0.1 / SleepInterval, not used in demo. Use it when you put the smartphone in pocket.
+AThreshold = 1 # Threshold for step counting
 StepSize = 0.7720000001 # meter, recommended by most pedometers
 
-MShift = -65
-MMagnitude = 100
+# these two values are for magnetometer readings, may need calibration. 
+MShift = -65 # calibrate using min value of magnetometer readings
+MMagnitude = 100 # calibrate using max - min value of magnetometer readings
 
-RLatitude = 90000.0000000001 # meter, when Longitude = 36
-RLongitude = 111000.0000000001
+RLatitude = 90000.0000000001 # how many meters for one degree of latitude, when Longitude = 36
+RLongitude = 111000.0000000001 # how many meters for one degree of longitude
 
+# in the following algorithm, we assume horizontally hold smartphone in hand
 class SInterpreter:
 
 	def __init__(self, d, f):
-		self.d = d
-		self.f = f
+		self.d = d # android handler
+		self.f = f # log file
 		self.aAvg = 9.8 # recording the average of acceleration on x
 		self.mAvg = 0.0 # recording the average of magnetic field on x
 
-		self.d.wakeLockAcquireDim()
+		self.d.wakeLockAcquireDim() # we have to keep screen on to get sensor readings, wakeLockPartial does not working, don't know why
 		self.walkingState = Pos
 		self.d.startSensingTimed(1, SensingInterval)
-		# time.sleep(InitialSleep)
 
 	def __del__(self):
 		self.d.wakeLockRelease()
 		self.d.stopSensing()
 		self.d.vibrate(7000)
 
+	# step count algorithm, also calculate average mag readings in each step
 	def sensing(self):
-		aAvg = self.aAvg
+		aAvg = self.aAvg # we can update this value on the run to make the algorithm more adaptive.
 		shockcnt = 0
 		mAvg = self.mAvg
 		mTotal = 0
@@ -72,6 +78,7 @@ class SInterpreter:
 
 		return mAvg
 
+	# map sensor readings to coordinates and orientation change
 	def calcCoordinates(self, coordinates, orientation, magX):
 		if magX < MShift + MMagnitude and magX > MShift + 0.80*MMagnitude:
 			# going west, longitude minus step size 

@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 import android
 import time
 
@@ -7,26 +9,26 @@ class sensorsTest:
 		self.d = android.Android()
 		self.total=cnt
 		self.cnt=cnt
-		self.d.makeToast("Sensor Test Initiating....")
+		self.d.wakeLockAcquireDim()
+		self.d.startSensingTimed(1, 50)
+		self.f = file('result.txt', 'w')
+		self.d.makeToast('Sensor Test Initiating....')
+
+	def __del__(self):
+		self.d.wakeLockRelease()
+		self.d.stopSensing()
+		self.f.close()
+		self.d.makeToast('Sensor Test Finished....')
+
 
 	def test(self):
-		self.f = file('result.txt', 'a')
-
-		self.d.startSensingTimed(1, 50)
 		while self.cnt:
-			
-			aRes = self.d.sensorsReadAccelerometer().result 
-			mRes = self.d.sensorsReadMagnetometer().result
 			gRes = self.d.sensorsReadOrientation().result
-			self.f.write('test #{0}: {1}{2}{3}\n' .format (self.total - self.cnt, aRes, mRes, gRes))
+			print gRes
+			self.f.write('test #{0}: {1}\n'.format (self.total - self.cnt, gRes))
 			time.sleep(0.1) # measure interval
 			self.cnt -= 1
-		self.d.stopSensing()
-
-		self.f.close()
-		self.d.makeToast("Sensor Test Finished....")
 
 
-
-t = sensorsTest(200);
+t = sensorsTest(300);
 t.test();

@@ -7,8 +7,8 @@ class sensorsTest:
 		self.total=cnt
 		self.cnt=cnt
 		self.d.makeToast("Sensor Test Initiating....")
-		self.mx = -100
-		self.mn = 100
+		self.mx = -100	# store the maximum value of magnetometer readings
+		self.mn = 100	# store the minimum value of magnetometer readings
 
 	def test(self):
 		self.d.startSensingTimed(1, 50)
@@ -28,8 +28,6 @@ class sensorsTest:
 		print 'max: {0}'.format(self.mx)
 		print 'min: {0}'.format(self.mn)
 		self.d.makeToast("Sensor Test Finished....")
-
-
 
 t = sensorsTest(100);
 t.test();

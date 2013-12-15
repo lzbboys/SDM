@@ -1,0 +1,17 @@
+Here is the debug output shown on your smartphone when you run the application:
+
+New orientation is: south
+New orientation is: south
+New orientation is: south
+New orientation is: south
+New orientation is: east
+New orientation is: east
+New orientation is: east
+New orientation is: south
+New orientation is: south
+New orientation is: south
+New orientation is: north
+New orientation is: north
+New orientation is: north
+
+Each line is generated when you make a step.
